@@ -1,9 +1,116 @@
-<h1 align="center">Hi 👋, I'm Oraz</h1>
-<h3 align="center">Мобильный разработчик Flutter & iOS. Работаю над коммерческими кроссплатформенными проектами, уделяя внимание удобству, функциональности и дизайну</h3>
+# Hi there, I'm Oraz 👋
 
-<h3 align="left">Connect with me:</h3>
+### 🚀 Mobile Developer — Flutter & iOS
+Создаю быстрые, современные и удобные мобильные приложения. Работаю над коммерческими кроссплатформенными проектами.
+
+---
+
+## 🛠 Tech Stack
 <p align="left">
+  <!-- Languages -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="45" height="45" />
+
+  <!-- Frameworks -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="45" height="45" />
+
+  <!-- Tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-light.svg" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="45" height="45" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
+---
+
+## 📂 Проекты
+
+### **[SelfMap](https://github.com/orazoraz/selfmap) — Swift**
+Приложение-трекер личного развития с радар-диаграммой, аналитикой прогресса и интеллектуальным модулем рекомендаций, который помогает формировать цели и ежедневные задачи.
+
+**Возможности:**
+- Динамическая радар-диаграмма по сферам жизни  
+- История прогресса и графики изменений  
+- Модуль умных рекомендаций (локальный алгоритмический анализ)  
+- Автоматическое формирование ежедневных заданий  
+- Архитектура: SwiftUI, MVVM, Combine, CoreData  
+
+---
+
+### **[Audex AI](https://github.com/orazoraz/audex-ai) — Flutter**
+Кроссплатформенное приложение для iOS и Android: загружай PDF(файлы любого типа), YouTube и аудио, и получай краткий конспект, чат с локальным помощником, флеш-карточки и викторины с уровнями сложности.
+
+**Возможности:**
+- Универсальная обработка контента  
+- 4 основных раздела:  
+  📝 Конспект  
+  💬 Чат  
+  🗂️ Карточки  
+  ❓ Квиз  
+- Локальные алгоритмы анализа контента  
+- Архитектура: Flutter, Firebase  
+
+---
+
+### **[Cal AI](https://github.com/orazoraz/Cal_Ai) — Flutter**
+Кроссплатформенное приложение для iOS и Android: подсчёт калорий, БЖУ, анализ питания и отслеживание активности.
+
+**Возможности:**
+- Главная панель: калории, БЖУ, активность, шаги, прогресс 
+- Аналитика за периоды  
+- Сканер еды с обработкой изображения и выводом калорий, белков, жиров, углеводов и шкалы полезности
+- Персональный помощник для рекомендаций  
+- Архитектура: Flutter, Firebase, Hive  
+
+---
+
+### **[Core-Tech](https://github.com/orazoraz/coreTech) — TypeScript / Next.js**
+Корпоративный сайт IT‑компании с серверной CMS и современным интерфейсом.
+
+**Особенности:**
+- Next.js 15 (App Router)  
+- Payload CMS 3  
+- Tailwind CSS 4  
+- Темная/светлая тема  
+- 3 языка: RU / KZ / EN  
+- MongoDB + AWS S3  
+- Интеграция Telegram для заявок  
+
+---
+
+### **[iLogist](https://github.com/startmobile-kz/ilogist) — Flutter**
+Приложение для управления логистикой: автоматизация маршрутов, контроль доставки и управление задачами для курьеров и склада.
+
+**Возможности:**
+- Создание и отслеживание маршрутов доставки  
+- Управление задачами курьеров и складских операций  
+- Отчеты по выполнению задач  
+- Уведомления и контроль статусов  
+- Архитектура: Flutter, Firebase  
+
+---
+
+## 🌐 Connect with me
+<p align="left">
+  <a href="https://www.linkedin.com/in/orazozhandos">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45" height="45" />
+  </a>
+  <a href="https://www.linkedin.com/in/orazozhandos"><b>LinkedIn</b></a>
+  <br/>
+
+  <a href="mailto:orazzhandos311@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="45" height="45" />
+  </a>
+  <a href="mailto:orazzhandos311@gmail.com"><b>orazzhandos311@gmail.com</b></a>
+  <br/>
+
+  <a href="https://t.me/orazzhandos">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/telegram/telegram-original.svg" width="45" height="45" />
+  </a>
+  <a href="https://t.me/orazoreke"><b>Telegram</b></a>
+</p>
